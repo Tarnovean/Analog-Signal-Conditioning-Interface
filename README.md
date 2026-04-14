@@ -30,7 +30,6 @@ Configurare LTspice:
 ## Structura Repository-ului
 
 * /Simulations - Fișierele LTspice (scheme și simboluri ierarhice).
-* /Measurements - Capturi de ecran din Scopy și datele achiziționate.
 * /Docs - Raportul complet al proiectului în format PDF.
 
 ## Autor
