@@ -31,7 +31,7 @@ Configurare LTspice:
 
 * /Simulations - Fișierele LTspice (scheme și simboluri ierarhice).
 * /Measurements - Capturi de ecran din Scopy și datele achiziționate.
-* /Docs - Raportul complet al proiectului în format PDF și schemele electrice.
+* /Docs - Raportul complet al proiectului în format PDF.
 
 ## Autor
 Târnovean Andrei Gabriel Universitatea Tehnică din Cluj-Napoca 
